@@ -1,14 +1,14 @@
 prepend-rules: 
-        - DOMAIN-SUFFIX,tiktok.com,GLOBAL #TikTok
+        - DOMAIN-SUFFIX,tiktok.com,GLOBAL # TikTok
         - DOMAIN-SUFFIX,ttwstatic.com,GLOBAL
         - DOMAIN-SUFFIX,tiktokcdn-us.com,GLOBAL
         - DOMAIN-SUFFIX,tiktokcdn.com,GLOBAL
         - DOMAIN-SUFFIX,tiktokv.com,GLOBAL
-        - DOMAIN-SUFFIX,linkedin.com,GLOBAL #领英国际版
-        - DOMAIN-SUFFIX,renzhe.cloud,GLOBAL #忍者云
+        - DOMAIN-SUFFIX,linkedin.com,GLOBAL # 领英国际版
+        - DOMAIN-SUFFIX,renzhe.cloud,GLOBAL # 忍者云
         - DOMAIN-SUFFIX,douban.com,DIRECT # 豆瓣 直连
         - DOMAIN-SUFFIX,yahoo.com,GLOBAL # 雅虎
-        - MATCH,translate.googleapis.com,GLOBAL #谷歌翻译 内置
-        - MATCH,translate.google.com,GLOBAL #谷歌翻译 拓展
-        - MATCH,translate-pa.googleapis.com,GLOBAL #谷歌翻译 拓展
-        - MATCH,tv.apple.com,GLOBAL #苹果TV+
+        - MATCH,translate.googleapis.com,GLOBAL # 谷歌翻译 内置
+        - MATCH,translate.google.com,GLOBAL # 谷歌翻译 拓展
+        - MATCH,translate-pa.googleapis.com,GLOBAL # 谷歌翻译 拓展
+        - MATCH,tv.apple.com,GLOBAL # 苹果TV+
