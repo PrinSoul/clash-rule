@@ -12,3 +12,4 @@ prepend-rules:
         - MATCH,translate.google.com,GLOBAL # 谷歌翻译 拓展
         - MATCH,translate-pa.googleapis.com,GLOBAL # 谷歌翻译 拓展
         - MATCH,tv.apple.com,GLOBAL # 苹果TV+
+        - MATCH,baidu.com,DIRECT # 百度 直连
