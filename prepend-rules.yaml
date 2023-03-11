@@ -1,5 +1,7 @@
-yaml:
-prepend-rules: 
+parsers: # array # ip111.cn 用于全方位查询您的IP地址
+  - reg: ^.*$ # 匹配所有订阅
+    yaml:
+    prepend-rules: 
         - DOMAIN-SUFFIX,tiktok.com,GLOBAL # TikTok
         - DOMAIN-SUFFIX,ttwstatic.com,GLOBAL
         - DOMAIN-SUFFIX,tiktokcdn-us.com,GLOBAL
