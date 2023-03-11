@@ -1,4 +1,5 @@
-prepend-rules: 
+yaml:
+      prepend-rules: 
         - DOMAIN-SUFFIX,tiktok.com,GLOBAL # TikTok
         - DOMAIN-SUFFIX,ttwstatic.com,GLOBAL
         - DOMAIN-SUFFIX,tiktokcdn-us.com,GLOBAL
